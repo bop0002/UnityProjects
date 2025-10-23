@@ -1,0 +1,54 @@
+{
+    "columns": [
+        {
+            "columnIndex": "0",
+            "pattern": [
+                "FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN",
+                "FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED",
+                "FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE",
+                "FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN"
+            ],
+            "indexCount": 0
+        },
+        {
+            "columnIndex": "1",
+            "pattern": [
+                "FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED",
+                "FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE",
+                "FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN",
+                "FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED"
+            ],
+            "indexCount": 0
+        },
+        {
+            "columnIndex": "2",
+            "pattern": [
+                "FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE",
+                "FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN",
+                "FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE","FOUR_RED",
+                "FOUR_GREEN","FOUR_BLUE","FOUR_RED","FOUR_GREEN","FOUR_BLUE"
+            ],
+            "indexCount": 0
+        },
+        {
+            "columnIndex": "3",
+            "pattern": [
+                "FOUR_RED","FOUR_BLUE","FOUR_GREEN","FOUR_RED","FOUR_BLUE",
+                "FOUR_GREEN","FOUR_RED","FOUR_BLUE","FOUR_GREEN","FOUR_RED",
+                "FOUR_BLUE","FOUR_GREEN","FOUR_RED","FOUR_BLUE","FOUR_GREEN",
+                "FOUR_RED","FOUR_BLUE","FOUR_GREEN","FOUR_RED","FOUR_BLUE"
+            ],
+            "indexCount": 0
+        },
+        {
+            "columnIndex": "4",
+            "pattern": [
+                "FOUR_GREEN","FOUR_RED","FOUR_BLUE","FOUR_GREEN","FOUR_RED",
+                "FOUR_BLUE","FOUR_GREEN","FOUR_RED","FOUR_BLUE","FOUR_GREEN",
+                "FOUR_RED","FOUR_BLUE","FOUR_GREEN","FOUR_RED","FOUR_BLUE",
+                "FOUR_GREEN","FOUR_RED","FOUR_BLUE","FOUR_GREEN","FOUR_RED"
+            ],
+            "indexCount": 0
+        }
+    ]
+}

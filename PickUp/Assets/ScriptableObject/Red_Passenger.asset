@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a94616c1e4a44f45b7f36961e047893, type: 3}
+  m_Name: Red_Passenger
+  m_EditorClassIdentifier: Assembly-CSharp::PassengerSO
+  objectName: RedPassenger
+  color: 0
+  prefab: {fileID: 3128558990827255195, guid: 56807b8b21729ba42a2ee19c6269140c, type: 3}
